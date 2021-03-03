@@ -10,7 +10,7 @@
         </v-btn>
 
         <v-btn to="/projects" plain class="mx-2" color="primary">
-          Blog
+          Diaries
         </v-btn>
 
         <v-btn to="/about" plain class="mx-2" color="primary">
