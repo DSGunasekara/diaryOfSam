@@ -2,7 +2,7 @@
   <v-app>
     <div class="container">
       <v-toolbar flat class="align-center">
-        <h3 style="font-family: 'Dancing Script'; color: #9895B6; font-size: xx-large">Diary of Sam</h3>
+        <h3 style="font-family: 'Dancing Script'; color: #9895B6;">Diary of Sam</h3>
         <v-spacer></v-spacer>
 
         <v-btn to="/" plain class="mx-2" color="primary">
